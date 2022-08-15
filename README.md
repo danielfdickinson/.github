@@ -31,7 +31,7 @@ to be managed per-repo.
 * [Support and general questions](docs/SUPPORT.md)
 * [Bugs and feature requests](docs/SUPPORT.md)
 * [Contributing modifications](docs/CONTRIBUTING.md)
-* [Reporting security issues][docs/SECURITY.md)
+* [Reporting security issues](docs/SECURITY.md)
 
 ### Code of conduct
 
