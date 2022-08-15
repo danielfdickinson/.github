@@ -6,7 +6,8 @@ GitHub 'community health' repository for danielfdickinson
 
 ### Status
 
-CI badge: TBD (for linting and spellchecking type activities)
+[![pre-commit.ci
+status](https://results.pre-commit.ci/badge/github/danielfdickinson/.github/main.svg)](https://results.pre-commit.ci/latest/github/danielfdickinson/.github/main)
 
 ## Interacting with danielfdickinson
 
