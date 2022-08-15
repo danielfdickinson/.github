@@ -40,3 +40,10 @@ to be managed per-repo.
 ## Notes
 
 See [docs/README-NOTES.md](docs/README-NOTES.md)
+
+## Copyright and license
+
+Copyright © 2022 Daniel F. Dickinson
+
+Except where otherwise noted this repository is licensed under the [Creative
+Commons Attribution Share-Alike 4.0 International license](LICENSE)
