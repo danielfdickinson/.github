@@ -1,4 +1,4 @@
-# Code of conduct for repositories owned by @@danielfdickinson
+# Code of conduct for repositories owned by @danielfdickinson
 
 Because this is a personal set of repositories with only occasional chiming in
 by others, it'd be silly to go all formal.

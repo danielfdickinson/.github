@@ -64,7 +64,7 @@ want speak in the first person), and 'I' am
 
 We use [CSpell][cspell] with [pre-commit][precommit] to catch spelling and other
 silly mistakes when committing to this
-(<https://github.com/danielfdickinson.github>) repository.
+(<https://github.com/danielfdickinson/.github>) repository.
 
 -------
 
