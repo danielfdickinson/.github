@@ -1,4 +1,4 @@
-# Report security issues related to https://github.com/danielfdickinson
+# Report security issues on <https://github.com/danielfdickinson>
 
 Please [use my published email address](mailto:dfdpublic@wildtechgarden.ca).
 I shall seek to respond as quickly as I am reasonably able.

@@ -24,6 +24,3 @@ CI badge: TBD (for linting and spellchecking type activities)
 
 Not present, yet. Given the variety of repositories I have, this probably needs
 to be managed per-repo.
-
-
-
